@@ -47,7 +47,7 @@ They help in understanding *who interacts with the system* and *what functionali
 
 **Booking System Use Case** 
 
-<img width="640" height="312" alt="_alx-booking-uc.png" src="https://github.com/user-attachments/assets/a24adb17-ae52-41d8-b975-0c7bb91cf87f" />
+<img width="640" height="312" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/a24adb17-ae52-41d8-b975-0c7bb91cf87f" />
 
 
 ## **Acceptance Criteria**
