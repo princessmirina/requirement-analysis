@@ -46,7 +46,7 @@ Use Case Diagrams visualize the interaction between actors (users or systems) an
 They help in understanding *who interacts with the system* and *what functionality is expected*.  
 
 **Booking System Use Case** 
-<img width="640" height="312" alt="_alx-booking-uc drawio" src="https://github.com/user-attachments/assets/5999d432-8d40-42fe-b262-74012840c384" />
+<img width="640" height="312" alt="_alx-booking-uc" src="https://github.com/user-attachments/assets/2a225b4f-e9f1-4a69-9910-b854e1c0c4d7" />
 
 
 ## **Acceptance Criteria**
